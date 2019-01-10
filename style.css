@@ -264,7 +264,7 @@ ul > li {
 
 }
 
-span [class="years"] > li [class="strong"] {
+span[class="years"] > li[class="strong"] {
 
     color: #DD8804;
 
